@@ -45,3 +45,17 @@ This mode will serve a simple nginx-like directory listing, and it only work wit
 On the top of the script, change `lite: false` into `lite: true`, than thats all.
 
 [Lite mode demo](https://gdindex-demo-lite.maple3142.workers.dev/)
+
+
+## Add strms
+
+Find onGet function in your worker code, and add these to it like the image below:
+
+    if (path.endsWith('.strm')) {
+      return new Response('https://gdindex-demo.maple3142.workers.dev' + path.slice(0, -5), {
+        status: 200,
+        headers: {
+          'Content-Type': 'text/plain'
+        }
+      })
+    }
