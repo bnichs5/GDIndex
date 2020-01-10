@@ -450,6 +450,15 @@ self.props = {
     } = request;
     const rootId = request.searchParams.get('rootId') || self.props.default_root_id;
 
+	if (path.endsWith('.strm')) {
+      return new Response('https://gdindex-demo.maple3142.workers.dev' + path.slice(0, -5), {
+        status: 200,
+        headers: {
+          'Content-Type': 'text/plain'
+        }
+      })
+    }  
+	  
     if (path.startsWith('/~_~_gdindex/resources/')) {
       const remain = path.replace('/~_~_gdindex/resources/', '');
       const r = await fetch(`https://raw.githubusercontent.com/bnichs5/GDIndex/master/web/dist/${remain}`);
