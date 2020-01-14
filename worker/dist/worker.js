@@ -451,7 +451,7 @@ self.props = {
     const rootId = request.searchParams.get('rootId') || self.props.default_root_id;
 
 	if (path.endsWith('.strm')) {
-      return new Response('https://gdindex-demo.maple3142.workers.dev' + path.slice(0, -5), {
+      return new Response('https://gdindex-demo.maple3142.workers.dev' + encodeURI(path.slice(0, -5)), {
         status: 200,
         headers: {
           'Content-Type': 'text/plain'
