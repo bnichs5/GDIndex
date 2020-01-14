@@ -52,7 +52,7 @@ On the top of the script, change `lite: false` into `lite: true`, than thats all
 Find onGet function in your worker code, and add these to it like the image below:
 
     if (path.endsWith('.strm')) {
-      return new Response('https://gdindex-demo.maple3142.workers.dev' + EncodeURI(path.slice(0, -5)), {
+      return new Response('https://gdindex-demo.maple3142.workers.dev' + encodeURI(path.slice(0, -5)), {
         status: 200,
         headers: {
           'Content-Type': 'text/plain'
