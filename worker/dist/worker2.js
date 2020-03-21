@@ -461,7 +461,7 @@ self.props = {
 	  
     if (path.startsWith('/~_~_gdindex/resources/')) {
       const remain = path.replace('/~_~_gdindex/resources/', '');
-      const r = await fetch(`https://raw.githubusercontent.com/bnichs5/GDIndex/master/web/dist/${remain}`);
+      const r = await fetch(`https://raw.githubusercontent.com/bnichs5/Index-GD/master/web/dist/${remain}`);
       return new Response(r.body, {
         headers: {
           'Content-Type': mime.getType(remain) + '; charset=utf-8',
