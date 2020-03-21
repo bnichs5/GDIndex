@@ -8,7 +8,7 @@ self.props = {
 	user: '',
 	pass: '',
 	upload: false,
-	lite: false
+	lite: true
 };
 (function () {
   'use strict';
