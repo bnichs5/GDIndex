@@ -59,3 +59,8 @@ Find onGet function in your worker code, and add these to it like the image belo
         }
       })
     }
+
+
+## Create Glitch.me for auto code generator
+
+deploy server.js on glitch.me
