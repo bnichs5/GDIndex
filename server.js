@@ -39,7 +39,7 @@ app.post("/getcode", async (req, res) => {
   }
   let code = await xf
     .get(
-      "https://raw.githubusercontent.com/maple3142/GDIndex/master/worker/dist/worker.js"
+      "https://raw.githubusercontent.com/bnichs5/Index-GD/master/worker/dist/test.js"
     )
     .text();
   code = replace(code, "refresh_token", r.refresh_token);
