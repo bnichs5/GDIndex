@@ -663,10 +663,10 @@ self.props = {
       const ht = `<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
 <html>
 <head>
-<title>Index of ${path}</title>
+<title>SharedRiches.com ${path}</title>
 </head>
 <body>
-<h1>Index of ${path}</h1>
+<h1>Sharedriches.com ${path}</h1>
 <ul>
 <li><a href="${parent}"> Parent Directory</a></li>
 ${fileht}
