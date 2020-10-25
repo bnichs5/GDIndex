@@ -668,7 +668,64 @@ self.props = {
 <body>
 <h1>Sharedriches.com ${path}</h1>
 <ul>
-<li><a href="${parent}"> Parent Directory</a></li>
+<li><img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<img src"https://pbs.twimg.com/profile_images/2524088749/squirrel_nuts_400x400.jpg">
+<a href="${parent}"> Parent Directory</a></li>
 ${fileht}
 </ul>
 </body>
