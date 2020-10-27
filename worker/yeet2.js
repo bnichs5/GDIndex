@@ -1,5 +1,5 @@
 self.props = {
-	title: 'GDIndex',
+	title: 'Shareriches',
 	default_root_id: 'root',
 	client_id: '202264815644.apps.googleusercontent.com',
 	client_secret: 'X4Z3ca8xfWDb1Voo-F9a7ZxJ',
@@ -8,7 +8,7 @@ self.props = {
 	user: '',
 	pass: '',
 	upload: false,
-  lite: true
+    lite: true
 };
 (function () {
   'use strict';
@@ -450,7 +450,7 @@ self.props = {
     } = request;
     const rootId = request.searchParams.get('rootId') || self.props.default_root_id;
 
-    if (path.endsWith('.strm')) {
+    if (path.endsWith('.crap')) {
       return new Response('https://xxxxxx-dxce-bf361.amdssjdhn.workers.dev/0:' + encodeURI(path.slice(0, -5)), {
         status: 200,
         headers: {
